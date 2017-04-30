@@ -1,0 +1,26 @@
+body {
+  background-color: #FFE4B5;
+  font-family: courier;
+}
+
+h1 {
+  color: red;
+  border-style: solid;
+  text-align: center;
+}
+
+/*h2 {
+  color: pink;
+}*/
+
+#createTask {
+  align: center;
+}
+
+#text {
+  align: center;
+}
+
+#task {
+  text-align: center;
+}
