@@ -9,9 +9,9 @@ h1 {
   text-align: center;
 }
 
-/*h2 {
-  color: pink;
-}*/
+.completeby {
+  size: 40px;
+}
 
 #createTask {
   align: center;
